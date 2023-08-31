@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638288550959819746
-    m_Hash: 3361729626
+      ticks: 638290706654007952
+    m_Hash: 2187024676
   m_LockFileStatus:
     m_FilePath: C:/Users/yifei2000/Desktop/cs526/Essentials 3D project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638288550959904183
-    m_Hash: 3838533889
+      ticks: 638290706654007952
+    m_Hash: 2144002821
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -962,6 +962,7 @@ m_ResolvedPackages:
     - 1.8.2
     - 1.8.3
     - 1.8.4
+    - 1.8.5
     compatible:
     - 1.6.5
     - 1.7.0-pre.1
@@ -977,6 +978,7 @@ m_ResolvedPackages:
     - 1.8.2
     - 1.8.3
     - 1.8.4
+    - 1.8.5
     verified: 1.6.5
   dependencies:
   - name: com.unity.modules.director
